@@ -5,15 +5,6 @@
 #include <map>
 
 
-enum class PointStates {
-    Empty,
-    Ship,
-    DamagedShip,
-    DestroyedShip,
-    Unknown,
-    Attacked
-};
-
 enum class Orientation{
     Vertical,
     Horizontal
@@ -66,11 +57,6 @@ struct Coordinates{
         }
         return *this;  
     }
-};
-
-
-struct AbilityRes {
-    std::string res;
 };
 
 #endif
