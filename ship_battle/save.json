@@ -1,0 +1,12 @@
+{
+  "Game_info": {
+    "Current_round": 0,
+    "width": 0,
+    "height": 0,
+    "sizes": []
+  },
+
+  "Player": {},
+
+  "Enemy": {}
+}

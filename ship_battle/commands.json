@@ -1,0 +1,8 @@
+{
+    "N": "START_NEW_GAME",
+    "S": "SAVE",
+    "L": "LOAD",
+    "A": "ATTACK",
+    "U": "USE_ABILITY",
+    "E": "EXIT"
+}
